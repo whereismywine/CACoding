@@ -91,7 +91,7 @@ public class SignupView extends JPanel implements ActionListener, PropertyChange
                         message[0] += user + "\n";
                     });
                     }
-                    JOptionPane.showMessageDialog(this, message[0]);
+
                 }
 
 
